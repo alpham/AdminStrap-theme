@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^1.12.4"
+  },
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
